@@ -1,0 +1,33 @@
+Popularity        ,215.581667,,Popularity             ,,477.298611,,Popularity            ,224017.064497,,p-values,,Accept/Reject null
+Endurance        ,5.077667,,Endurance                  ,,2.094217,,Endurance                     ,4.312648,,Strength to Popularity_Total,0.135519259957561,Accept 
+Strength              ,5.169,,Strength                  ,,1.715357,,Strength                  ,2.893409,,Agility to Popularity_Total,0.222915355473148,Accept 
+Power                  ,5.509167,,Power                      ,,1.980397,,Power                        ,3.856608,,Endurance to Popularity_Total,0.138803612929672,Accept 
+Speed                 ,4.815,,Speed                     ,,2.266403,,Speed                     ,5.050975,,Durability to Popularity_Total,0.305673050779984,Accept 
+Agility              ,4.765,,Agility                    ,,1.927273,,Agility                      ,3.652475,,Analytical Aptitude to Popularity_Total,0.21723661454157,Accept 
+Flexibility           ,4.723167,,Flexibility                ,,1.704369,,Flexibility                  ,2.856458,,Flexibility to Popularity_Total,0.284613021020845,Accept 
+Nerve    ,4.6148833,,Nerve                     ,,2.442645,,Nerve                     ,5.867075,,Rank to Popularity_Total,0.00000000000016656237,Reject 
+Durability    ,4.612833,,Durability                 ,,1.882102,,Durability                  ,3.48327,,,,
+Hand-Eye Coordination  ,4.954833,,Hand-Eye Coordination      ,,1.966328,,Hand-Eye Coordination       ,3.802005,,,,
+Analytical Aptitude     ,4.767333,,Analytical Aptitude      ,,1.57683,,Analytical Aptitude         ,2.444953,,Pearsons Correlaton,,
+Total              ,48.98333,,Total                   ,,12.170519,,Total                      ,145.652847,,Strength to Popularity_Total,0.0424777565434457,
+Rank                 ,30.4,,Rank                  ,,17.473661,,Rank                      ,300.24,,Agility to Popularity_Total,0.413586697877741,
+Popularity_Total     ,3.593028,,Popularity_Total           ,,7.954977,,Popularity_Total             ,62.226962,,Endurance to Popularity_Total,0.268119278416974,
+,,,,,,,,,,Durability to Popularity_Total,0.279944714301,
+,,,,,,,,,,Analytical Aptitude to Popularity_Total,0.501463381990493,
+,,,,,,,,,,Flexibility to Popularity_Total,0.0171622458774382,
+,,,,,,,,,,Total to Popularity_Total,0.367558602977224,
+,,,,,,,,,,,,
+,,,,,,,,,,Covariance,,
+,,,,,,,,,,Strength to Popularity_Total,0.579635564971751,
+,,,,,,,,,,Agility to Popularity_Total,6.34086822033898,
+,,,,,,,,,,Endurance to Popularity_Total,4.46671848399246,
+,,,,,,,,,,Durability to Popularity_Total,4.19135455273069,
+,,,,,,,,,,Analytical Aptitude to Popularity_Total,6.29017911487759,
+,,,,,,,,,,Flexibility to Popularity_Total,0.232689402071563,
+,,,,,,,,,,Total to Popularity_Total,35.5856268832391,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,50% percentile:,5.18999999999999,
+,,,,,,,,,,90% percentile: ,7.3,
+,,,,,,,,,,95% percentile: ,8.1425,
+,,,,,,,,,,100% percentile:,9.25,
